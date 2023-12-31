@@ -3,9 +3,16 @@
     background-color:cornflowerblue;
 }
 
-h1
+.top
 {
     color:aliceblue;
     text-align:center;
     font-size:32px;
+}
+
+.welcome
+{
+    text-align:center;
+    font-size:16px;
+    color:aliceblue;
 }
